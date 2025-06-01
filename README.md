@@ -16,9 +16,9 @@ https://steamcommunity.com/profiles/76561199244679260/
 * TheChecker & Kuvvetmira
 
 # Urls
-*https://guns.lol/kuvvetmira
-*https://guns.lol/thechecker
+* https://guns.lol/kuvvetmira
+* https://guns.lol/thechecker
 
 # Discord
-*kral.amk
-*kuvvetmira.sago
+* kral.amk
+* kuvvetmira.sago
